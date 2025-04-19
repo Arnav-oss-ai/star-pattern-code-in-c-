@@ -1,4 +1,5 @@
-# star-pattern-code-in-c-
+//# star-pattern-code-in-c-
+
 #include<iostream>
 using namespace std;
 int main()
